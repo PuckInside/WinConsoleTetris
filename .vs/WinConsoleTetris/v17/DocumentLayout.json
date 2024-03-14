@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\WinConsoleTetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|solutionrelative:WinConsoleTetris\\WinConsoleTetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|solutionrelative:WinConsoleTetris\\src\\Interfaces\\IGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IHandleInputs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|solutionrelative:WinConsoleTetris\\src\\Interfaces\\IHandleInputs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|solutionrelative:WinConsoleTetris\\src\\Interfaces\\IInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IDraw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|solutionrelative:WinConsoleTetris\\src\\Interfaces\\IDraw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IFrame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|solutionrelative:WinConsoleTetris\\src\\Interfaces\\IFrame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\WinConsoleTetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F0D4AE2-9576-4F09-BC34-90932445A2D2}|WinConsoleTetris\\WinConsoleTetris.vcxproj|solutionrelative:WinConsoleTetris\\src\\WinConsoleTetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +39,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IGame.h",
+              "DocumentMoniker": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IGame.h",
+              "RelativeDocumentMoniker": "WinConsoleTetris\\src\\Interfaces\\IGame.h",
+              "ToolTip": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IGame.h",
+              "RelativeToolTip": "WinConsoleTetris\\src\\Interfaces\\IGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T21:04:25.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHandleInputs.h",
+              "DocumentMoniker": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IHandleInputs.h",
+              "RelativeDocumentMoniker": "WinConsoleTetris\\src\\Interfaces\\IHandleInputs.h",
+              "ToolTip": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IHandleInputs.h",
+              "RelativeToolTip": "WinConsoleTetris\\src\\Interfaces\\IHandleInputs.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T20:59:45.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IInput.h",
+              "DocumentMoniker": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IInput.h",
+              "RelativeDocumentMoniker": "WinConsoleTetris\\src\\Interfaces\\IInput.h",
+              "ToolTip": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IInput.h",
+              "RelativeToolTip": "WinConsoleTetris\\src\\Interfaces\\IInput.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T20:52:07.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDraw.h",
+              "DocumentMoniker": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IDraw.h",
+              "RelativeDocumentMoniker": "WinConsoleTetris\\src\\Interfaces\\IDraw.h",
+              "ToolTip": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IDraw.h",
+              "RelativeToolTip": "WinConsoleTetris\\src\\Interfaces\\IDraw.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T20:34:48.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFrame.h",
+              "DocumentMoniker": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IFrame.h",
+              "RelativeDocumentMoniker": "WinConsoleTetris\\src\\Interfaces\\IFrame.h",
+              "ToolTip": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\Interfaces\\IFrame.h",
+              "RelativeToolTip": "WinConsoleTetris\\src\\Interfaces\\IFrame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T20:38:04.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WinConsoleTetris.cpp",
-              "DocumentMoniker": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\WinConsoleTetris.cpp",
-              "RelativeDocumentMoniker": "WinConsoleTetris\\WinConsoleTetris.cpp",
-              "ToolTip": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\WinConsoleTetris.cpp",
-              "RelativeToolTip": "WinConsoleTetris\\WinConsoleTetris.cpp",
+              "DocumentMoniker": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\WinConsoleTetris.cpp",
+              "RelativeDocumentMoniker": "WinConsoleTetris\\src\\WinConsoleTetris.cpp",
+              "ToolTip": "C:\\Users\\sagin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\WinConsoleTetris\\WinConsoleTetris\\src\\WinConsoleTetris.cpp",
+              "RelativeToolTip": "WinConsoleTetris\\src\\WinConsoleTetris.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-13T19:32:49.877Z",

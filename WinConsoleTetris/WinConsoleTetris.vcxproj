@@ -127,7 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="WinConsoleTetris.cpp" />
+    <ClCompile Include="src\WinConsoleTetris.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Interfaces\IDraw.h" />
+    <ClInclude Include="src\Interfaces\IFrame.h" />
+    <ClInclude Include="src\Interfaces\IGame.h" />
+    <ClInclude Include="src\Interfaces\IHandleInputs.h" />
+    <ClInclude Include="src\Interfaces\IInput.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
