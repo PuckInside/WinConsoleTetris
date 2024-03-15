@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Example\ExampleEngine.cpp" />
     <ClCompile Include="src\WinConsoleTetris.cpp" />
   </ItemGroup>
   <ItemGroup>

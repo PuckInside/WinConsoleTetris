@@ -7,6 +7,7 @@ class IGame
 {
 public:
 	virtual void Update() = 0;
-	virtual IFrame GetFrame() = 0;
-	virtual void SetInputs(IInput input) = 0;
+	virtual bool isGameExit() = 0;
+	virtual IFrame* GetFrame() = 0;
+	virtual void SetInputs(IInput* input) = 0;
 };

@@ -18,6 +18,9 @@
     <ClCompile Include="src\WinConsoleTetris.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="src\Example\ExampleEngine.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Interfaces\IDraw.h">
